@@ -1,0 +1,69 @@
+name: dream_task
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  get: ^4.6.1
+  get_storage: ^2.0.3
+  flutter_svg: ^1.0.3
+
+#  intl: ^0.17.0
+#  cached_network_image: ^3.1.0
+#  dio: 4.0.0
+#  url_launcher: ^6.0.10
+#  image_picker: ^0.8.5+3
+#  get_it: ^7.2.0
+#  open_file: ^3.2.1
+#  share_plus: ^4.0.10
+#  file_picker: ^4.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Icons/back.svg
+    - assets/Icons/bookPageCancel.svg
+    - assets/Icons/bookPagePay.svg
+    - assets/Icons/carPageBook.svg
+    - assets/Icons/carPageCall.svg
+    - assets/Icons/carPageChatbyWhatsapp.svg
+    - assets/Icons/carPageFav.svg
+    - assets/Icons/carPageLocation.svg
+    - assets/Icons/carPageMakfula.svg
+    - assets/Icons/carPageShare.svg
+    - assets/Icons/carPageSlindr.svg
+    - assets/Icons/homeAd1.svg
+    - assets/Icons/homeAd2.svg
+    - assets/Icons/homeAd3.svg
+    - assets/Icons/homeAd4.svg
+    - assets/Icons/homeMenu.svg
+    - assets/Icons/homeNotification.svg
+    - assets/Icons/homeSearch.svg
+    - assets/Icons/menuAbout.svg
+    - assets/Icons/menuContact.svg
+    - assets/Icons/menuFav.svg
+    - assets/Icons/menuHome.svg
+    - assets/Icons/menuPartner.svg
+    - assets/Icons/menuQ.svg
+    - assets/Icons/menuSignOut.svg
+    - assets/Icons/menuSitting.svg
+    - assets/Icons/menuUser.svg
+    - assets/Icons/partnerAdd.svg
+    - assets/Icons/partnerUpload.svg
+    - assets/Icons/profilePageEdit.svg
+    - assets/Icons/singInPartner.svg
+    - assets/images/image1.png
+    - assets/images/image11.png
+    - assets/images/image5.png
+    - assets/images/image6.png
